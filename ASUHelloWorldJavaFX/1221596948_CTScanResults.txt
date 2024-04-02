@@ -1,0 +1,7 @@
+Patient ID: 1221596948
+Total Agatston CAC Score: 12
+LM: 1221
+LAD: qwwert
+LCX: wrgth
+RCA: 1221
+PDA: 56

@@ -1,0 +1,7 @@
+Patient ID: 00002
+Total Agatston CAC Score: 12
+LM: 4
+LAD: 6
+LCX: 5
+RCA: 4
+PDA: 3
